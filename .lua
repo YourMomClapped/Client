@@ -7,19 +7,15 @@ if Player.UserId == 1201621667 then
 
 
 -- MY ALTS ACCESS
-wait(1)
-if Player.UserId == 3444568744 then
+if Player.UserId == 2577437702 then -- NoRoyall
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/YourMomClapped/Annon-Hub/main/.lua'),true))()
 end
 
-
--- FELLOW FRIENDS ACCESS
-wait(1)
-if PLayer.UserId == 4632363497
+if Player.UserId == 3444568744 then -- AltForTrading
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/YourMomClapped/Annon-Hub/main/.lua'),true))()
 end
 
-wait(1)
-if Player.UserId == 2577437702 then
+if PLayer.UserId == 4632363497 then -- Taki
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/YourMomClapped/Annon-Hub/main/.lua'),true))()
 end
+
