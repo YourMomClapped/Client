@@ -4,6 +4,9 @@ if Player.UserId == 1201621667 then
     else
         loadstring(game:HttpGet(('https://raw.githubusercontent.com/YourMomClapped/White-List/main/.lua'),true))()
     end
+
+
+-- MY ALTS ACCESS
 if Player.UserId == 3444568744 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/YourMomClapped/Annon-Hub/main/.lua'),true))()
 end
