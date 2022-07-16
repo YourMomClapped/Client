@@ -11,3 +11,15 @@ wait(1)
 if Player.UserId == 3444568744 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/YourMomClapped/Annon-Hub/main/.lua'),true))()
 end
+
+
+-- FELLOW FRIENDS ACCESS
+wait(1)
+if PLayer.UserId == 4632363497
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/YourMomClapped/Annon-Hub/main/.lua'),true))()
+end
+
+wait(1)
+if Player.UserId == 2577437702 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/YourMomClapped/Annon-Hub/main/.lua'),true))()
+end
