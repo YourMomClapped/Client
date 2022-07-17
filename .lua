@@ -15,11 +15,12 @@ if Player.UserId == 3444568744 then -- AltForTrading
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/YourMomClapped/Annon-Hub/main/.lua'),true))()
 end
 
+if PLayer.UserId == 3265668877 then -- Taki
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/YourMomClapped/Annon-Hub/main/.lua'),true))()
+end
+
 if PLayer.UserId == 4632363497 then -- Taki
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/YourMomClapped/Annon-Hub/main/.lua'),true))()
 end
 
-if PLayer.UserId == 3265668877 then -- Taki
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/YourMomClapped/Annon-Hub/main/.lua'),true))()
-end
 
