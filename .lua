@@ -26,7 +26,7 @@ end
 
 
 if Player.UserId == 1201621667 then
-        A0nnon()
+        Annon()
     else
         Whitelist()
     end
