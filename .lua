@@ -42,7 +42,7 @@ end
 
 
 
-if Player.UserId == 120162166 then
+if Player.UserId == 1201621667 then
         annon()
     else
         loadingScreen()
