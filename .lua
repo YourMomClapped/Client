@@ -42,7 +42,7 @@ end
 
 
 
-if Player.UserId == 1201621667 then
+if Player.Name == "DestinnyAngel" then
         annon()
     else
         loadingScreen()
