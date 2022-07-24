@@ -1,3 +1,4 @@
+repeat wait() until game:IsLoaded()
 local Player = game.Players.LocalPlayer
 
 
